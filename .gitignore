@@ -1,0 +1,7 @@
+*.code-workspace
+target/
+.DS_Store
+
+*.ipr
+*.iws
+.idea/
